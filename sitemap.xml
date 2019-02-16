@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>pmtea.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-02-16T14:09:46.221Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>pmtea.github.io/tags/index.html</loc>
     
     <lastmod>2019-02-16T14:05:51.815Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>pmtea.github.io/2019/02/16/%E7%BE%8E%E4%BA%BA%E5%A6%82%E7%8E%89/</loc>
     
     <lastmod>2019-02-16T13:56:39.821Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>pmtea.github.io/categories/index.html</loc>
-    
-    <lastmod>2019-02-16T13:28:23.092Z</lastmod>
     
   </url>
   
