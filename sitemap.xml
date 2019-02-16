@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>pmtea.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-02-16T14:05:51.815Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>pmtea.github.io/about/index.html</loc>
+    
+    <lastmod>2019-02-16T14:05:45.225Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>pmtea.github.io/2019/02/16/%E7%BE%8E%E4%BA%BA%E5%A6%82%E7%8E%89/</loc>
     
     <lastmod>2019-02-16T13:56:39.821Z</lastmod>
@@ -16,23 +30,9 @@
   </url>
   
   <url>
-    <loc>pmtea.github.io/tags/index.html</loc>
-    
-    <lastmod>2019-02-16T13:27:23.142Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>pmtea.github.io/hexo-admin-ehc-images.json</loc>
     
     <lastmod>2019-02-16T12:36:03.159Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>pmtea.github.io/about/index.html</loc>
-    
-    <lastmod>2019-02-16T11:05:00.070Z</lastmod>
     
   </url>
   
