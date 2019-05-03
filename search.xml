@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[HEXO绑定二级域名]]></title>
     <url>%2F2019%2F05%2F03%2FHEXO%E7%BB%91%E5%AE%9A%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D%2F</url>
-    <content type="text"><![CDATA[以我的HEXO博客为例 1. 通过ping命令查看当前pmtea.github.io 域名对应的IP2. 在域名解析服务中添加A记录和CNAME记录A记录解析到1步骤中的IP CNAME记录将自己的域名解析到 pmtea.github.io，支持二级域名]]></content>
+    <content type="text"><![CDATA[以我的HEXO博客为例 1. 通过ping命令查看当前pmtea.github.io 域名对应的IP2. 在域名解析服务中添加A记录和CNAME记录A记录解析到1步骤中的IP CNAME记录将自己的域名解析到 pmtea.github.io，支持二级域名 3. 在HEXO 根目录/source 目录下新建 CNAME文件填入我的二级域名：blog.pmtea.xyz]]></content>
   </entry>
   <entry>
     <title><![CDATA[2019年五一]]></title>

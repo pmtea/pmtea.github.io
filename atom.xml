@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="pmtea.github.io/"/>
-  <updated>2019-05-03T11:54:19.907Z</updated>
+  <updated>2019-05-03T11:57:51.787Z</updated>
   <id>pmtea.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="pmtea.github.io/2019/05/03/HEXO%E7%BB%91%E5%AE%9A%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D/"/>
     <id>pmtea.github.io/2019/05/03/HEXO绑定二级域名/</id>
     <published>2019-05-03T11:47:37.000Z</published>
-    <updated>2019-05-03T11:54:19.907Z</updated>
+    <updated>2019-05-03T11:57:51.787Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>以我的HEXO博客为例</p></blockquote><h2 id="1-通过ping命令查看当前pmtea-github-io-域名对应的IP"><a href="#1-通过ping命令查看当前pmtea-github-io-域名对应的IP" class="headerlink" title="1. 通过ping命令查看当前pmtea.github.io 域名对应的IP"></a>1. 通过ping命令查看当前pmtea.github.io 域名对应的IP</h2><h2 id="2-在域名解析服务中添加A记录和CNAME记录"><a href="#2-在域名解析服务中添加A记录和CNAME记录" class="headerlink" title="2. 在域名解析服务中添加A记录和CNAME记录"></a>2. 在域名解析服务中添加A记录和CNAME记录</h2><p>A记录解析到1步骤中的IP</p><p>CNAME记录将自己的域名解析到 pmtea.github.io，支持二级域名</p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>以我的HEXO博客为例</p></blockquote><h2 id="1-通过ping命令查看当前pmtea-github-io-域名对应的IP"><a href="#1-通过ping命令查看当前pmtea-github-io-域名对应的IP" class="headerlink" title="1. 通过ping命令查看当前pmtea.github.io 域名对应的IP"></a>1. 通过ping命令查看当前pmtea.github.io 域名对应的IP</h2><h2 id="2-在域名解析服务中添加A记录和CNAME记录"><a href="#2-在域名解析服务中添加A记录和CNAME记录" class="headerlink" title="2. 在域名解析服务中添加A记录和CNAME记录"></a>2. 在域名解析服务中添加A记录和CNAME记录</h2><p>A记录解析到1步骤中的IP</p><img src="/2019/05/03/HEXO绑定二级域名/jx1.png"><p>CNAME记录将自己的域名解析到 pmtea.github.io，支持二级域名</p><img src="/2019/05/03/HEXO绑定二级域名/jx2.png"><h2 id="3-在HEXO-根目录-source-目录下新建-CNAME文件"><a href="#3-在HEXO-根目录-source-目录下新建-CNAME文件" class="headerlink" title="3. 在HEXO 根目录/source 目录下新建 CNAME文件"></a>3. 在HEXO 根目录/source 目录下新建 CNAME文件</h2><p>填入我的二级域名：blog.pmtea.xyz</p>]]></content>
     
     <summary type="html">
     
