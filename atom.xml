@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="pmtea.github.io/"/>
-  <updated>2019-04-27T12:32:35.722Z</updated>
+  <updated>2019-05-03T11:14:56.458Z</updated>
   <id>pmtea.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="pmtea.github.io/2019/04/27/frp%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
     <id>pmtea.github.io/2019/04/27/frp内网穿透/</id>
     <published>2019-04-27T12:20:26.000Z</published>
-    <updated>2019-04-27T12:32:35.722Z</updated>
+    <updated>2019-05-03T11:14:56.458Z</updated>
     
-    <content type="html"><![CDATA[<p>最近在给之前花了一万块“买”的斐讯N1盒子装系统，一个线刷装了WEPAD 的V2.2官改版，一个装了荒野无灯的小钢炮NANO Disk Manager。<br>第一个因为装起也就是电视盒子而已，但是家里两台电视一个小米盒子，一个乐视电视自带系统，不需要再来一个盒子了，也没买遥控器。</p><p>主要使用小钢炮，确实好用，就是qBittorrent死活没速度，一直是等待中。</p><p>特别好用的是<img src="https://github.com/fatedier/frp/blob/master/README_zh.md" alt="FRP内网穿透">，感觉很安全。<br>需要一台外网服务器，自己电脑需要公网IP，两边分别安全frp服务端和客户端，齐活。<br>轻松实现内网穿透。</p><p>暴露ARIA2C的 RPC+ ARING 在手机上配置捷径轻松远程下载。</p>]]></content>
+    <content type="html"><![CDATA[<p>最近在给之前花了一万块“买”的斐讯N1盒子装系统，一个线刷装了WEPAD 的V2.2官改版，一个装了荒野无灯的小钢炮NANO Disk Manager。<br>第一个因为装起也就是电视盒子而已，但是家里两台电视一个小米盒子，一个乐视电视自带系统，不需要再来一个盒子了，也没买遥控器。</p><p>主要使用小钢炮，确实好用，就是qBittorrent死活没速度，一直是等待中。</p><p>特别好用的是<a href="https://github.com/fatedier/frp/blob/master/README_zh.md" target="_blank" rel="noopener">FRP内网穿透</a>，感觉很安全。<br>需要一台外网服务器，自己电脑需要公网IP，两边分别安全frp服务端和客户端，齐活。<br>轻松实现内网穿透。</p><p>暴露ARIA2C的 RPC+ ARING 在手机上配置捷径轻松远程下载。</p>]]></content>
     
     <summary type="html">
     
