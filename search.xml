@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[酸豇豆肉沫]]></title>
+    <url>%2F2019%2F08%2F02%2F%E9%85%B8%E8%B1%87%E8%B1%86%E8%82%89%E6%B2%AB%2F</url>
+    <content type="text"><![CDATA[今天翘班没去上班。 饿了一天，下午去超市买了一斤多前腿肉，配上之前买的酸豆角，做起了心心念念的酸豇豆肉沫饭。没拍照，吃的很饱，下面技术总结： 肉切碎或用绞肉机搅碎，别切太碎，加少许盐，老抽，生抽腌制5分钟 酸豆角清水泡20分钟后挤干水分切碎，喜欢吃豆角的质感可以切稍微长一点 ！我买的酸豇豆是盐渍的，自身带盐！！可以不用另外加盐，生抽也别放太多，我吃了这个亏，咸了！ 别炒太久，炒的太干不好吃 技术总结完毕。]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[HEXO绑定二级域名]]></title>
     <url>%2F2019%2F05%2F03%2FHEXO%E7%BB%91%E5%AE%9A%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D%2F</url>
     <content type="text"><![CDATA[以我的HEXO博客为例 1. 通过ping命令查看当前pmtea.github.io 域名对应的IP2. 在域名解析服务中添加A记录和CNAME记录A记录解析到1步骤中的IP CNAME记录将自己的域名解析到 pmtea.github.io，支持二级域名 3. 在HEXO 根目录/source 目录下新建 CNAME文件填入我的二级域名：blog.pmtea.xyz]]></content>

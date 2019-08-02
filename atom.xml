@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="pmtea.github.io/"/>
-  <updated>2019-05-03T11:57:51.787Z</updated>
+  <updated>2019-08-02T10:27:20.043Z</updated>
   <id>pmtea.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>酸豇豆肉沫</title>
+    <link href="pmtea.github.io/2019/08/02/%E9%85%B8%E8%B1%87%E8%B1%86%E8%82%89%E6%B2%AB/"/>
+    <id>pmtea.github.io/2019/08/02/酸豇豆肉沫/</id>
+    <published>2019-08-02T10:19:16.000Z</published>
+    <updated>2019-08-02T10:27:20.043Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天翘班没去上班。</p><p>饿了一天，下午去超市买了一斤多前腿肉，配上之前买的酸豆角，做起了心心念念的酸豇豆肉沫饭。<br>没拍照，吃的很饱，下面技术总结：</p><ul><li>肉切碎或用绞肉机搅碎，别切太碎，加少许盐，老抽，生抽腌制5分钟</li><li>酸豆角清水泡20分钟后挤干水分切碎，喜欢吃豆角的质感可以切稍微长一点</li><li>！我买的酸豇豆是盐渍的，自身带盐！！可以不用另外加盐，生抽也别放太多，我吃了这个亏，咸了！</li><li>别炒太久，炒的太干不好吃</li></ul><p>技术总结完毕。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天翘班没去上班。&lt;/p&gt;
+&lt;p&gt;饿了一天，下午去超市买了一斤多前腿肉，配上之前买的酸豆角，做起了心心念念的酸豇豆肉沫饭。&lt;br&gt;没拍照，吃的很饱，下面技术总结：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;肉切碎或用绞肉机搅碎，别切太碎，加少许盐，老抽，生抽腌制5分钟&lt;/li&gt;
+&lt;li&gt;酸
+        
+      
+    
+    </summary>
+    
+    
+      <category term="日记" scheme="pmtea.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>HEXO绑定二级域名</title>
